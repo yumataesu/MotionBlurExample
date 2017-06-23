@@ -104,11 +104,11 @@ void ofApp::drawGui()
     gui.begin();
     
     ImGui::Begin("Albedo", &guishow, 0);
-    ImGui::ImageButton((ImTextureID)(uintptr_t) fbo.getTexture(0).getTextureData().textureID, ImVec2(256, 142));
+    ImGui::ImageButton((ImTextureID)(uintptr_t) fbo.getTexture(0).getTextureData().textureID, ImVec2(512, 284));
     ImGui::End();
     
     ImGui::Begin("Velocity", &guishow, 0);
-    ImGui::ImageButton((ImTextureID)(uintptr_t) fbo.getTexture(1).getTextureData().textureID, ImVec2(256, 142));
+    ImGui::ImageButton((ImTextureID)(uintptr_t) fbo.getTexture(1).getTextureData().textureID, ImVec2(512, 284));
     ImGui::End();
     
     ImGui::Begin("View", &guishow, 0);
