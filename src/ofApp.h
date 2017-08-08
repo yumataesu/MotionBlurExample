@@ -28,7 +28,6 @@ public:
     ofFbo fbo;
     ofxImGui gui;
     
-    float time;
     float lastFrame, currentFrame, deltaTime, deltaTime_;
     float delta;
     float angle;

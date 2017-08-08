@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BCE73ED77708D14890CF27AF9192BD83A4E55D70",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6DC9F1C67200D29C29965679E0EA96DD0D303236" : 9223372036854775807,
+    "BCE73ED77708D14890CF27AF9192BD83A4E55D70" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "50598A0C-26B6-4E13-8217-5079012572F6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6DC9F1C67200D29C29965679E0EA96DD0D303236" : "",
+    "BCE73ED77708D14890CF27AF9192BD83A4E55D70" : "MotionBlurExample\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MotionBlurExample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MotionBlurExample.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MorimasaAketa\/perfume-bvh-oF",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6DC9F1C67200D29C29965679E0EA96DD0D303236"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yumataesu\/MotionBlurExample.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BCE73ED77708D14890CF27AF9192BD83A4E55D70"
+    }
+  ]
+}
